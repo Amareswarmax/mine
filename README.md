@@ -1,2 +1,2 @@
-# mine
+# mine-demo
 first all
